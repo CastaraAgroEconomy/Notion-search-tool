@@ -1,0 +1,10 @@
+flask
+dropbox
+notion-client
+openai
+PyPDF2
+python-docx
+openpyxl
+python-pptx
+pandas
+gunicorn
